@@ -1,7 +1,5 @@
 # [wisersell](https://wisersell.com)
 
-Daha fazla bilgi için [resmi web sitemizi](https://wisersell.com) ziyaret edin.
-
 
 Siparişten teslimata, tüm e-ticaret süreçleriniz tek panelde.
 
@@ -61,5 +59,6 @@ Yüzbinlerce siparişi yüzden fazla ülkeye başarıyla ulaştırdık. WiserSel
 
 
 Daha fazla bilgi için [resmi web sitemizi](https://wisersell.com) ziyaret edin.
+
 
 
