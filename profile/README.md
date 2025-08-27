@@ -16,7 +16,7 @@ Siparişten teslimata tüm süreci kolaylaştırır, pazaryerleri ve kargo firma
 ### 🚀 Hizmetlerimiz
 - 🛒 **Sipariş Yönetimi** – Tüm siparişlerinizi tek ekranda toplayın  
 
-#### Farklı pazaryerlerinden gelen siparişlerinizi anlık olarak senkronize edin, tek panelde toplayın ve sipariş listeleri ve ürün etiketleri oluşturun, üretim ve tedarik süreçlerinizi yönetin. Otomatikleştirilmiş süreçlerle işgücünden ve zamandan kazanın. Sınırsız sayıda pazaryerinizi bağlayın, ekstra  gizli fiyatlarla karşılaşmayın.
+      - Farklı pazaryerlerinden gelen siparişlerinizi anlık olarak senkronize edin, tek panelde toplayın ve sipariş listeleri ve ürün etiketleri oluşturun, üretim ve tedarik süreçlerinizi yönetin. Otomatikleştirilmiş süreçlerle işgücünden ve zamandan kazanın. Sınırsız sayıda pazaryerinizi bağlayın, ekstra  gizli fiyatlarla karşılaşmayın.
 
 - 🚚 **Kargo Entegrasyonu** – FedEx, UPS, DHL, Trendyol Express ve daha fazlası  
 
