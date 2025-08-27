@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>🌐 Languages:</b>  
-  <a href="#-türkçe">🇹🇷 Türkçe</a> | <a href="#-english">GB English</a>
+  <a href="#-türkçe">🇹🇷 Türkçe</a> | <a href="#-english">🇬🇧 English</a>
 </p>
 
 ---
@@ -56,7 +56,7 @@ Kredi kartı bilgisi girmeden WiserSell’i ücretsiz denemeye başlayabilirsini
 
 ---
 
-## GB English
+## 🇬🇧 English
 
 ### 🌟 Who We Are
 **[WiserSell](https://www.wisersell.com)** is a platform that unifies your entire e-commerce operations into a single panel.  
