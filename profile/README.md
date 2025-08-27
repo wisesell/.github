@@ -36,9 +36,9 @@ Kredi kartı bilgisi girmeden WiserSell’i ücretsiz denemeye başlayabilirsini
 - ✉️ E-posta: [email protected]  
 
 ### 📖 Kaynaklar
-- [Blog](https://www.wisersell.com/en/blog)  
-- [SSS](https://www.wisersell.com/en/frequently-asked-questions/)  
-- [Entegrasyonlar](https://www.wisersell.com/en/integrations/)  
+- [Blog](https://www.wisersell.com/blog)  
+- [SSS](https://www.https://www.wisersell.com/sikca-sorulan-sorular/)  
+- [Entegrasyonlar](https://www.wisersell.com/entegrasyonlar/)  
 
 ---
 
