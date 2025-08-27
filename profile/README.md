@@ -16,24 +16,24 @@ Siparişten teslimata tüm süreci kolaylaştırır, pazaryerleri ve kargo firma
 ### 🚀 Hizmetlerimiz
 - 🛒 **Sipariş Yönetimi** – Tüm siparişlerinizi tek ekranda toplayın  
 
-      Farklı pazaryerlerinden gelen siparişlerinizi anlık olarak senkronize edin, tek panelde toplayın ve sipariş listeleri ve ürün etiketleri oluşturun, üretim ve tedarik süreçlerinizi yönetin. Otomatikleştirilmiş süreçlerle işgücünden ve zamandan kazanın. Sınırsız sayıda pazaryerinizi bağlayın, ekstra  gizli fiyatlarla karşılaşmayın.
+#### Farklı pazaryerlerinden gelen siparişlerinizi anlık olarak senkronize edin, tek panelde toplayın ve sipariş listeleri ve ürün etiketleri oluşturun, üretim ve tedarik süreçlerinizi yönetin. Otomatikleştirilmiş süreçlerle işgücünden ve zamandan kazanın. Sınırsız sayıda pazaryerinizi bağlayın, ekstra  gizli fiyatlarla karşılaşmayın.
 
 - 🚚 **Kargo Entegrasyonu** – FedEx, UPS, DHL, Trendyol Express ve daha fazlası  
 
-      Kargolarınızı platform fark etmeksizin kolayca yönetin. Fedex, UPS, DHL, Widect, ShipStation, ShipEntegra, Trendyol Express gibi firmalarla entegre çalışarak, tek panelden gönderi ve etiket oluşturun.
+#### Kargolarınızı platform fark etmeksizin kolayca yönetin. Fedex, UPS, DHL, Widect, ShipStation, ShipEntegra, Trendyol Express gibi firmalarla entegre çalışarak, tek panelden gönderi ve etiket oluşturun.
 
 - 📦 **Envanter & Depo Yönetimi** – Stoklarınızı gerçek zamanlı takip edin  
       
-      Tüm pazaryerlerindeki ürün ilanlarınızı, kataloğunuzdaki ilgili ürün ile eşleştirin ve sipariş ve kargo yönetimindeki olası tüm aksaklıkların önüne geçin.
-      Depo süreçlerinizi merkezi bir sistemle yönetin. Siparişleri doğru depoya yönlendirin, stokları canlı takip edin, depo içi operasyonları hızlandırın.
+#### Tüm pazaryerlerindeki ürün ilanlarınızı, kataloğunuzdaki ilgili ürün ile eşleştirin ve sipariş ve kargo yönetimindeki olası tüm aksaklıkların önüne geçin.
+#### Depo süreçlerinizi merkezi bir sistemle yönetin. Siparişleri doğru depoya yönlendirin, stokları canlı takip edin, depo içi operasyonları hızlandırın.
       
 - 📊 **Muhasebe & Finans** – Faturalama ve ETGB süreçlerini kolayca yönetin  
 
-      Muhasebe işlemlerinizi satışlara entegre yönetin. Siparişlerinizi faturalandırma işlemlerini kargo işlemleri ile eş zamanlı yürütün. ETGB'li gönderim süreçlerinizi kolaylaştırın.
+#### Muhasebe işlemlerinizi satışlara entegre yönetin. Siparişlerinizi faturalandırma işlemlerini kargo işlemleri ile eş zamanlı yürütün. ETGB'li gönderim süreçlerinizi kolaylaştırın.
 
 - 🌍 **IRS Acceptance Agent** – ABD’de e-ticaret yapanlara ITIN başvuru desteği  
      
-      ABD'de e-ticaret yapan kişi ve şirketler için gerekli olan ITIN (Bireysel Vergi Kimlik Numarası) başvurularında, ABD Gelir İdaresi (IRS - Internal Revenue Service) tarafından yetkilendirilmiş, Türkiye'deki dört resmi Acceptance Agent'tan biri olarak hizmet sunuyoruz. Orijinal belge göndermenize gerek kalmadan, başvuru sürecinizi doğru, hızlı ve güvenli şekilde tamamlamanıza yardımcı oluyor; Stripe, Amazon gibi platformlarla sorunsuz entegrasyon sağlamanızı destekliyoruz.
+#### ABD'de e-ticaret yapan kişi ve şirketler için gerekli olan ITIN (Bireysel Vergi Kimlik Numarası) başvurularında, ABD Gelir İdaresi (IRS - Internal Revenue Service) tarafından yetkilendirilmiş, Türkiye'deki dört resmi Acceptance Agent'tan biri olarak hizmet sunuyoruz. Orijinal belge göndermenize gerek kalmadan, başvuru sürecinizi doğru, hızlı ve güvenli şekilde tamamlamanıza yardımcı oluyor; Stripe, Amazon gibi platformlarla sorunsuz entegrasyon sağlamanızı destekliyoruz.
 
 ### 💡 Neden WiserSell?
 
