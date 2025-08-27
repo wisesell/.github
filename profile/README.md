@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>🌐 Languages:</b>  
-  <a href="#-türkçe">🇹🇷 Türkçe</a> | <a href="#-english">🇬🇧 English</a>
+  <a href="#-türkçe">🇹🇷 Türkçe</a> | <a href="#-english">🇪🇳 English</a>
 </p>
 
 ---
@@ -102,3 +102,4 @@ Start your free trial with **no credit card required**.
 - [Blog](https://www.wisersell.com/en/blog)  
 - [FAQ](https://www.wisersell.com/en/frequently-asked-questions/)  
 - [Integrations](https://www.wisersell.com/en/integrations/)  
+
