@@ -1,5 +1,3 @@
-# 👋 WiserSell
-
 ![WiserSell Logo](./images/logo.png)
 
 <p align="center">
