@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>🌐 Languages:</b>  
-  <a href="#-türkçe">🇹🇷 Türkçe</a> | <a href="#-english">🇪🇳 English</a>
+  <a href="#-türkçe">🇹🇷 Türkçe</a> | <a href="#-english">USA English</a>
 </p>
 
 ---
