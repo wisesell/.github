@@ -1,9 +1,14 @@
 ![WiserSell Logo](./images/logo.png)
 
 <p align="center">
-  <b>🌐 Languages:</b>  
-  <a href="#-türkçe">🇹🇷 Türkçe</a> | <a href="#-english">🇬🇧 English</a>
+  <picture>
+    <!-- Light mode logo -->
+    <source srcset="wisershell-lg-white.svg" media="(prefers-color-scheme: dark)" />
+    <!-- Dark mode logo (fallback for light mode) -->
+    <img src="wisershell-lg-dark.svg" alt="Logo" width="200" />
+  </picture>
 </p>
+
 
 ---
 
