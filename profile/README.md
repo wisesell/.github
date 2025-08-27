@@ -1,5 +1,3 @@
-![WiserSell Logo](./images/logo.png)
-
 <p align="center">
   <picture>
     <!-- Light mode logo -->
@@ -9,6 +7,11 @@
   </picture>
 </p>
 
+
+<p align="center">
+  <b>🌐 Languages:</b>  
+  <a href="#-türkçe">🇹🇷 Türkçe</a> | <a href="#-english">🇬🇧 English</a>
+</p>
 
 ---
 
