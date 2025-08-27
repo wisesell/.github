@@ -1,12 +1,4 @@
-<p align="center">
-  <picture>
-    <!-- Light mode logo -->
-    <source srcset="wisershell-lg-white.svg" media="(prefers-color-scheme: dark)" />
-    <!-- Dark mode logo (fallback for light mode) -->
-    <img src="wisershell-lg-dark.svg" alt="Logo" width="200" />
-  </picture>
-</p>
-
+![WiserSell Logo](./images/wisersell.png)
 
 <p align="center">
   <b>🌐 Languages:</b>  
