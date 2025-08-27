@@ -7,7 +7,7 @@
 
 ---
 
-## Türkçe
+## 🇹🇷 Türkçe
 
 ### 🌟 Biz Kimiz?
 **[WiserSell](https://www.wisersell.com)**, e-ticaret operasyonlarını tek panelde birleştiren bir platformdur.  
@@ -56,7 +56,7 @@ Kredi kartı bilgisi girmeden WiserSell’i ücretsiz denemeye başlayabilirsini
 
 ---
 
-## English
+## 🇪🇳 English
 
 ### 🌟 Who We Are
 **[WiserSell](https://www.wisersell.com)** is a platform that unifies your entire e-commerce operations into a single panel.  
@@ -102,5 +102,6 @@ Start your free trial with **no credit card required**.
 - [Blog](https://www.wisersell.com/en/blog)  
 - [FAQ](https://www.wisersell.com/en/frequently-asked-questions/)  
 - [Integrations](https://www.wisersell.com/en/integrations/)  
+
 
 
