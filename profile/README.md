@@ -7,57 +7,39 @@ Siparişten teslimata, tüm e-ticaret süreçleriniz tek panelde.
 
 Wisersell yüzbinlerce siparişin deneyimiyle, dünyanın en popüler e-ticaret platformları, pazaryerleri, kargo firmaları ve daha fazlasıyla uyum içinde çalışarak tüm süreçlerinizi tek panelde birleştirir; e-ticaret ekosistemindeki her türlü ihtiyacınızda yanınızda olur, size zaman ve para kazandırır.
 
-# Sipariş akışını düzenle verimliliği artır
+#  Merhaba, biz WiserSell
 
-Wisersell, tüm sipariş ve gönderim süreçlerinizi tek panelden yönetmenizi sağlar. Maliyetleri düşürür, operasyonel verimliliği artırır. Size işinize odaklanmak kalır.
+![WiserSell Logo](./images/logo.png)
 
-# Benzersiz wisersell çözümleri
+##  Biz Kimiz?
+WiserSell, e-ticaret operasyonlarını tek panelde birleştiren, siparişten teslimata tüm süreci kolaylaştıran entegre bir çözümdür. Dünyanın önde gelen e-ticaret platformları, pazaryerleri ve kargo firmalarıyla uyumlu çalışır ve operasyonel verimliliği artırır.:contentReference[oaicite:1]{index=1}
 
-E-ticaret serüveninizde ihtiyacınız olabilecek güvenilir tüm hizmet ve çözümler Wisersell ile yanınızda.
+##  Hizmetlerimiz
+- **Sipariş Yönetimi**: Pazaryerleri üzerinden gelen siparişlerinizi tek panelde senkronize edin ve verimlilik kazanın.:contentReference[oaicite:2]{index=2}  
+- **Kargo Entegrasyonu**: FedEx, UPS, DHL, Trendyol Express gibi firmalarla entegrasyon sayesinde gönderim ve etiket işlemlerini kolaylaştırın.:contentReference[oaicite:3]{index=3}  
+- **Envanter & Depo Yönetimi**: Siparişleri doğru depoya yönlendirin, stokları gerçek zamanlı takip edin.:contentReference[oaicite:4]{index=4}  
+- **Muhasebe & Finans**: Faturalama süreçlerini kargo ve satış işlemleriyle entegre yönetin; ETGB’li gönderimler kolaylaşır.:contentReference[oaicite:5]{index=5}  
+- **IRS Acceptance Agent**: Türkiye’de ABD’de e-ticaret yapanlara ITIN başvurularında destek veren dört resmi Acceptance Agent’ten biriyiz. Orijinal belge göndermeden sürecinizi tamamlayabilirsiniz.:contentReference[oaicite:6]{index=6}  
 
-## Sipariş
-## Kargo
-## Katalog
-## Depo
-## Muhasebe
-## Tedarikçi
-## Mobil
-## Danışmanlık
-## Özelleştirme
-## Yetkili IRS Temsilcisi
+##  Neden WiserSell?
+- Tüm e-ticaret süreçlerini tek platformdan yöneterek zaman ve maliyette tasarruf sağlarsınız.:contentReference[oaicite:7]{index=7}  
+- Geniş entegrasyon ağı sayesinde mağaza, kargo, muhasebe ve tedarik zinciri sistemleriyle sorunsuz işbirliği.:contentReference[oaicite:8]{index=8}  
+- Ücretsiz danışmanlık ve özelleştirilmiş çözümler sunulur; iş modelinize uygun stratejiler oluşturulur.:contentReference[oaicite:9]{index=9}  
 
-# E-ticaretinize dair her konuda yanınızdayız
+##  Ücretsiz Deneyin
+WiserSell’e kredi kartı girmenize gerek kalmadan, hemen başlayabileceğiniz ücretsiz bir deneme sunuyoruz.:contentReference[oaicite:10]{index=10}  
 
-Siparişten kargoya, depodan muhasebeye, tedarikçiden danışmanlığa, lojistikten yurtdışı sigortalamaya, yurtdışı şirket açılışından eğitimlere kadar tüm e-ticaret ihtiyaçlarınızda sizin yanınızda.
+##  İletişim
+- **Web Sitesi**: [wisersell.com](https://www.wisersell.com)  
+- **Adres**: 142 Belmont Dr Unit 3, Somerset, NJ 08873, USA:contentReference[oaicite:11]{index=11}  
+- **WhatsApp**: +90 545 245 26 48:contentReference[oaicite:12]{index=12}  
+- **E-posta**: [email protected]:contentReference[oaicite:13]{index=13}  
 
-İhtiyacınız olan herşey burada
-# Önce
-# Güven
-
-E-ticarette güvenilir iş ortakları ve ekipler bulmanın ne kadar zor olduğunu biliyoruz.
-
-Bu yüzden sizi kendi ekosistemimizde yer alan güvenilir ve kendi alanının en iyisi çözümlerle buluşturuyor, maliyetlerinizi azaltıyor ve iş yükünüzü hafifletiyoruz.
-
-# Entegrasyon
-# Tek Tık Uzağınızda
-
-Dünyanın önde gelen pazaryerleri ve kargo firmaları ile kolay entegrasyonunuzu hemen kurun, işlerinizi kolaylaştırın.
-
-# Kullanımınıza göre ödeyin
-# Gereksiz yüklerden kurtulun!
-
-Bir ay ücretsiz deneme ile kolaylıklar dünyasına hemen adım atın
-
-# Dünya Çapında Entegrasyon
-
-Yüzbinlerce siparişi yüzden fazla ülkeye başarıyla ulaştırdık. WiserSell ile işlerinizi büyütmek için bizimle ücretsiz bir görüşme yapın.
-
-## 240 Mağaza
-## 240.000 Sipariş
-## 160.000 Kargo
+##  Bizi Takip Edin
+- [Blog & İncelemeler](https://www.wisersell.com/en/blog) — E-ticaret üzerine güncel içerikler:contentReference[oaicite:14]{index=14}  
+- [Sık Sorulan Sorular (SSS)](https://www.wisersell.com/en/frequently-asked-questions/) — Entegrasyon, ödeme, teknik sorular ve daha fazlası:contentReference[oaicite:15]{index=15}  
 
 
-Daha fazla bilgi için [resmi web sitemizi](https://wisersell.com) ziyaret edin.
 
 
 
