@@ -15,7 +15,9 @@ Siparişten teslimata tüm süreci kolaylaştırır, pazaryerleri ve kargo firma
 
 ### 🚀 Hizmetlerimiz
 - 🛒 **Sipariş Yönetimi** – Tüm siparişlerinizi tek ekranda toplayın  
+      Farklı pazaryerlerinden gelen siparişlerinizi anlık olarak senkronize edin, tek panelde toplayın ve sipariş listeleri ve ürün etiketleri oluşturun, üretim ve tedarik süreçlerinizi yönetin. Otomatikleştirilmiş süreçlerle işgücünden ve zamandan kazanın. Sınırsız sayıda pazaryerinizi bağlayın, ekstra  gizli fiyatlarla karşılaşmayın.
 - 🚚 **Kargo Entegrasyonu** – FedEx, UPS, DHL, Trendyol Express ve daha fazlası  
+      Kargolarınızı platform fark etmeksizin kolayca yönetin. Fedex, UPS, DHL, Widect, ShipStation, ShipEntegra, Trendyol Express gibi firmalarla entegre çalışarak, tek panelden gönderi ve etiket oluşturun.
 - 📦 **Envanter & Depo Yönetimi** – Stoklarınızı gerçek zamanlı takip edin  
 - 📊 **Muhasebe & Finans** – Faturalama ve ETGB süreçlerini kolayca yönetin  
 - 🌍 **IRS Acceptance Agent** – ABD’de e-ticaret yapanlara ITIN başvuru desteği  
